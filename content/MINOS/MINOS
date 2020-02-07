@@ -1,1 +1,40 @@
-\section{MINOS}
+\section{Multi-Informatics for Nuclear Operations Scenarios (MINOS)}
+
+This venture under NNSA Nonproliferation Research and Development (NA-22) is
+focused at Oak Ridge National Laboratory (ORNL). It is dedicated towards
+developing methods for identifying nuclear proliferation. To facilitate this
+study, MINOS acts as a compendium of datasets collected in various forms and
+at various locations. This section does not serve as an overview of the MINOS
+venture and its research efforts. Instead, this section will highlight examples
+of data that is collected as part of MINOS. For those interested in this data
+(perhaps for use in modelling and simulations), details will be presented on
+how to request access to this data and points of contact for collaboration with
+MINOS.
+
+\subsubsection{Examples of Available MINOS Data}
+
+An ETI Thrust Area 1 collaborators may be interested in MINOS data as a means
+for developing models and simulations that can be used in nonproliferation
+research. As it pertains to ETI’s mission, MINOS provides real-world data, with
+ground-truth for some datasets, that can confirm or inform computational models.
+A brief, non-inclusive list of potential datasets are listed below:
+
+\begin{itemize}
+\item Seismo-acoustic
+\item Electro-magnetic
+\item Biota
+\item UHI Infrasound
+\item HFIR Measurements
+\item REDC Measurements
+\end{itemize}
+
+\subsection{Requesting Data Access}
+
+Data is stored and managed by Lawrence Berkeley Laboratory (LBL). To begin the
+process, start by emailing \href{johnsonja@ornl.gov}{Dr. Jared Johnson} who is
+the ETI Point of Contact for MINOS. Please state that your affiliation
+(including your participation in ETI), your interest in collaboration with
+MINOS, and your intended use for the data. Upon approval, you will be asked to
+acknowledge and accept the MINOS Data Use Agreement. You will then be forwarded
+to register an account on the MINOS database and Dr. Brian Quiter of LBL will
+grant you access.
