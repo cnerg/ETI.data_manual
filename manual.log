@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.19)  7 FEB 2020 16:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.19)  10 FEB 2020 13:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -231,41 +231,48 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.27 \item H
-            FIR Measurements [1])
+            FIR Measurements [1] [2]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Overfull \hbox (8.37366pt too wide) in paragraph at lines 89--91
+\OT1/cmr/m/n/12 If there are any non-HDF5 files avail-able for down-load in the
+ se-lected workspace
+ []
+
+) [3]
 No file manual.bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
-[2]
+[4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
  (./manual.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
-
-
-Package rerunfilecheck Warning: File `manual.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `manual.out':
-(rerunfilecheck)             Before: FBE1DE04F5A266713F392E4BED9DB85A;231
-(rerunfilecheck)             After:  58587D37423BE33B7D622694F6BBA851;221.
+Package rerunfilecheck Info: File `manual.out' has not changed.
+(rerunfilecheck)             Checksum: 9C1F85409B680D9AF32A241A993D4020;365.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 25.
  ) 
 Here is how much of TeX's memory you used:
- 5360 strings out of 494923
- 83944 string characters out of 6180742
- 161984 words of memory out of 5000000
- 8680 multiletter control sequences out of 15000+600000
- 6627 words of font info for 24 fonts, out of 8000000 for 9000
+ 5371 strings out of 494923
+ 84075 string characters out of 6180742
+ 162984 words of memory out of 5000000
+ 8683 multiletter control sequences out of 15000+600000
+ 6796 words of font info for 25 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  36i,6n,38p,214b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on manual.pdf (3 pages, 54396 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on manual.pdf (5 pages, 70402 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
