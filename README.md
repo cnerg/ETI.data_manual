@@ -46,7 +46,7 @@ A brief, non-inclusive list of potential datasets are listed below:
 ## Requesting Data Access
 
 Data is stored and managed by Lawrence Berkeley Laboratory (LBL). To begin the
-process, start by emailing [Dr. Jared Johnson](johnsonja@ornl.gov) who is
+process, start by emailing [Dr. Jared Johnson](mailto:johnsonja@ornl.gov) who is
 the ETI Point of Contact for MINOS. Please state that your affiliation
 (including your participation in ETI), your interest in collaboration with
 MINOS, and your intended use for the data. Upon approval, you will be asked to
