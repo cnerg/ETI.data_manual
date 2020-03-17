@@ -19,7 +19,7 @@ MINOS.
 
 ### Examples of Available MINOS Data
 
-An ETI Thrust Area 1 collaborators may be interested in MINOS data as a means
+ETI Thrust Area 1 collaborators may be interested in MINOS data as a means
 for developing models and simulations that can be used in nonproliferation
 research. As it pertains to ETI’s mission, MINOS provides real-world data, with
 ground-truth for some datasets, that can confirm or inform computational models.
