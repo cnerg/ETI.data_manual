@@ -1,6 +1,4 @@
 # ETI Thrust Area 1: Data Access and Collaboration
-##### Edited by: [Jordan Stomps](mailto:stomps@wisc.edu)
-###### Last Updated: 3/5/2020
 
 ***
 
@@ -22,8 +20,8 @@ of data (imaging, audio, E&M readings, etc.) but might not be sure which venture
 or project best fits those needs. To facilitate this search, a table has been
 organized below that attempts to match certain forms of data with each project.
 Note that this table is not exhaustive. In the event that a user finds a data
-type that is not listed but should be, please contact the editor listed at the
-top of this page so it can be included. To explore something in the table, each
+type that is not listed but should be, please create an issue or pull request
+on the manual's GitHub page. To explore something in the table, each
 cell forwards to a brief description of that data type and information on the
 venture or project.
 
