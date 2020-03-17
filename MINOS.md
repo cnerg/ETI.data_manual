@@ -1,6 +1,5 @@
 # Multi-Informatics for Nuclear Operations Scenarios (MINOS)
 ##### Point of Contact: [Dr. Jared Johnson](johnsonja@ornl.gov)
-###### Last Updated: 3/5/2020
 
 ***
 
@@ -78,14 +77,14 @@ three options for the user.
 
 #### Download all files from data collections
 
-Simply press ```Submit Query``` and all files “checked” in the workspace will
+Press ```Submit Query``` and all files “checked” in the workspace will
 be downloaded. The default file format downloaded will be the HDF5 datasets.
 
 #### Download individual HDF5 datasets
 
 This tab allows the user to individually select HDF5 files from the selected
 workspace datasets for download. A valuable feature here is the ability to add
-a time-selection visualization. Simply select the time filter for the datasets
+a time-selection visualization. Select the time filter for the datasets
 and a histogram will be generated with the frequency of entries at different
 time bins. This may be useful in understanding when data was being collected at
 maximum capacity. Subsets of the data can be selected by dragging an interval
@@ -100,16 +99,17 @@ workspace datasets, they can be specifically downloaded here.
 ## Python Download API
 
 If the user knows what data is needed, it can be downloaded without using the
-website. A Python API has been created that allows a user to download directly
-from code. To start, select ```Tools -> REST API Key Manager -> Generate New API Key```.
+website. A generic [Rest API](https://restfulapi.net/) can be used to download
+data directly to client. To start, select
+```Tools -> REST API Key Manager -> Generate New API Key```.
 Make sure to copy this key down and take note of its expiration date
 (new keys can always be generated). This section will not detail the rest of
 the instructions for using the API. Instead, these instructions are provided in
 the MINOS help documentation linked above.
 
-This Python API can be executed from any desktop computer, but if it is more
-desirable it can also be executed from a JupyterHub portal found on the webpage
-at ```Tools -> JupyterHub Portal```. This is run on a cluster at LBL and allows
+A Python API (i.e. "MINOS API") allows the user to download and execute data
+from a JupyterHub portal found on the webpage at
+```Tools -> JupyterHub Portal```. This is run on a cluster at LBL and allows
 a user to create Jupyter notebooks for data analysis. When the Python API is
 used here, data will be downloaded to the cluster, which may be more
 advantageous than downloading directly to a desktop computer.
