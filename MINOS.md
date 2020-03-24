@@ -27,9 +27,7 @@ A brief, non-inclusive list of potential datasets are listed below:
 * Seismo-acoustic
 * Electro-magnetic
 * Biota
-* UHI Infrasound
-* HFIR Measurements
-* REDC Measurements
+* Infrasound
 
 ## Requesting Data Access
 
