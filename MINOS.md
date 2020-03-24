@@ -53,15 +53,16 @@ to the ```Help``` tab on the main page).
 
 All datasets can be seen as a list by going to the ```Datasets``` tab on the
 webpage. This page allows keyword searches for specific datasets and has
-various tags to sort data based on its relevance. Each dataset has an
-affiliated organization, so selecting that on the left-hand side will filter
-only that data. Clicking on an entry will open a list of files associated with
-that dataset. There should be a JSON that contains summary information
-about what is contained on this page. Data is commonly tarballed into a large
-database format and a more reasonably sized HDF5 format. Clicking on any
-of the files brings the user to a download page for manually downloading files.
-Some data (for example biota) may be in another format like XLSX rather
-than those explained above.
+various tags to sort data based on its relevance. MINOS entries can be filtered 
+using the ```organization``` tag on the left-hand side of the browser. This 
+tag loosely groups datasets together based on the data's modality and the 
+institution where it was collected. Clicking on an entry will open a list of 
+files associated with that dataset. There should be a JSON that contains 
+summary information about what is contained on this page. Data is commonly 
+tarballed into a large database format and a more reasonably sized HDF5 format. 
+Clicking on any of the files brings the user to a download page for manually 
+downloading files. Some data (for example biota) may be in another format like 
+XLSX rather than those explained above.
 
 ### Data Workspace
 
