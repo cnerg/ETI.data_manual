@@ -1,5 +1,5 @@
 # WAGGLE: Edge Computing and Intelligent Sensors
-##### Point of Contact: [Dr. Rajesh Sankaran](rajesh@mcs.anl.gov) & [Dr. Candido Pereira](pereira@anl.gov)
+##### Point of Contact: [Dr. Rajesh Sankaran](mailto:rajesh@mcs.anl.gov) & [Dr. Candido Pereira](mailto:pereira@anl.gov)
 
 ***
 
