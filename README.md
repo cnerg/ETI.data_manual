@@ -1,6 +1,7 @@
 # ETI Thrust Area 1: Data Access and Collaboration
 
 ***
+![ETI logo](https://eti.gatech.edu/wp-content/uploads/sites/1003/2019/03/ETI-full_black-768x293.png)
 
 # Introduction
 
