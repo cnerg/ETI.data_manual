@@ -2,11 +2,14 @@
 
 ***
 
+![ETI logo](https://eti.gatech.edu/wp-content/uploads/sites/1003/2019/03/ETI-full_black-768x293.png)
+
 # Introduction
 
 The purpose of this manual is to provide members, particularly those from
-university institutions, of the Consortium for Enabling Technologies and
-Innovation (ETI) details for access to NA-22 relevant data from national laboratories.
+university institutions, of the [Consortium for Enabling Technologies and
+Innovation (ETI)](https://eti.gatech.edu) details for access to NA-22
+relevant data from national laboratories.
 Data that has been gathered with potential interest to ETI collaborators is
 introduced, and instructions for accessing that data are provided.
 Hopefully this will serve as a catalyst for university members, like graduate
