@@ -25,8 +25,7 @@ organized below that attempts to match certain forms of data with each project.
 Note that this table is not exhaustive. In the event that a user finds a data
 type that is not listed but should be, please create an issue or pull request
 on the manual's GitHub page. To explore something in the table, each
-cell forwards to a brief description of that data type and information on the
-venture or project.
+cell forwards to information on the venture or project.
 
 ## Table of Contents
 
