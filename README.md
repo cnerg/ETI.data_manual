@@ -27,6 +27,19 @@ type that is not listed but should be, please create an issue or pull request
 on the manual's GitHub page. To explore something in the table, each
 cell forwards to information on the venture or project.
 
+## Contributing
+
+This manual is a living document that improves with the contribution of others.
+In order to be exhaustive, data modalities need to be added as they are
+identified. There are many ventures, projects, and data streams that are
+valuable to ETI and deserve to be included in the information below. Readers are
+encouraged to add missing information if they believe something should be added.
+Since this manual exists on GitHub, there are several methods for contribution.
+This repository can be forked, edited, and contributors can send pull requests
+for review. Alternatively, issues can be raised for identifying errors. For
+more information on collaborating with GitHub, please refer to the [GitHub
+help page](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests).
+
 ## Table of Contents
 
 1. [Multi-Informatics for Nuclear Operations Scenarios (MINOS)](MINOS.md)
