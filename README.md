@@ -27,6 +27,9 @@ type that is not listed but should be, please create an issue or pull request
 on the manual's GitHub page. To explore something in the table, each
 cell forwards to information on the venture or project.
 
+Contribution to this document is encouraged as data streams are identified.
+The process of adding content is detailed in the (contributing page)[CONTRIBUTING.md]
+
 ## Table of Contents
 
 1. [Multi-Informatics for Nuclear Operations Scenarios (MINOS)](MINOS.md)
