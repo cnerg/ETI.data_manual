@@ -7,8 +7,8 @@
 
 This venture under NNSA Nonproliferation Research and Development (NA-22) is
 focused at Oak Ridge National Laboratory (ORNL). It is dedicated towards
-developing methods for identifying nuclear proliferation. To facilitate this
-study, MINOS acts as a compendium of datasets collected in various forms and
+characterizing signatures from the High Flux Isotope Reactor (HFIRS). To facilitate
+this study, MINOS acts as a compendium of datasets collected in various forms and
 at various locations. This section does not serve as an overview of the MINOS
 venture and its research efforts. Instead, this section will highlight examples
 of data that is collected as part of MINOS. For those interested in this data
