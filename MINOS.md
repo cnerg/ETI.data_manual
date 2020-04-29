@@ -6,15 +6,16 @@
 # Introduction
 
 This venture under NNSA Nonproliferation Research and Development (NA-22) is
-focused at Oak Ridge National Laboratory (ORNL). It is dedicated towards
-characterizing signatures from the High Flux Isotope Reactor (HFIR). To facilitate
-this study, MINOS acts as a compendium of datasets collected in various forms and
-at various locations. This section does not serve as an overview of the MINOS
-venture and its research efforts. Instead, this section will highlight examples
-of data that is collected as part of MINOS. For those interested in this data
-(perhaps for use in modelling and simulations), details will be presented on
-how to request access to this data and points of contact for collaboration with
-MINOS.
+focused on characterizing operations at DOE nuclear reactor and irradiated
+material processing testbeds through the use of data analytics on disparate
+data sets. To facilitate this study, the project has gathered sensor and ground
+truth data at the  Oak Ridge National Laboratory (ORNL) Hight Flux Isotope
+Reactor (HFIR) and collocated Radiochemical Engineering Development Center (REDC).
+This section does not serve as an overview of the MINOS venture and its research
+efforts. Instead, this section will highlight examples of data that is collected
+as part of MINOS. For those interested in this data (perhaps for use in modelling
+and simulations), details will be presented on how to request access to this
+data and points of contact for collaboration with MINOS.
 
 ### Examples of Available MINOS Data
 
