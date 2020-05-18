@@ -75,16 +75,16 @@ fMoW was an IARPA challenge to develop classification algorithms for imagery dat
 
 #### xView Detection Challenge
 
-This is a publicly available dataset of satellite imagery provided by the Defense Innovation Unit Expermental (DIUx) and the National Geospatial-Intelligence Agency(NGA). [XView](http://xviewdataset.org/) builds on the work of other imagery challenges in developing classification and detection algorithms. A pre-trained model is already provided using TensorFlow and PyTorch.
+This is a publicly available dataset of satellite imagery provided by the Defense Innovation Unit Experimental (DIUx) and the National Geospatial-Intelligence Agency (NGA). [XView](http://xviewdataset.org/) builds on the work of other imagery challenges in developing classification and detection algorithms. A pre-trained model is already provided using TensorFlow and PyTorch.
 
 #### SpaceNet
 
 [SpaceNet](https://spacenetchallenge.github.io/) is a commercial satellite imagery dataset with existing labels for developing machine learning classification algorithms. The dataset is publicly available on [AWS](https://registry.opendata.aws/spacenet/).
 
-#### Cars Overhead With Context
+#### Cars Overhead with Context
 
 [COWC](https://gdo152.llnl.gov/cowc/) is a training dataset with value to machine learning and deep neural networks for classification and detection of cars in overhead imagery. A paper describing the dataset can be found [here](https://gdo152.llnl.gov/cowc/mundhenk_et_al_eccv_2016.pdf).
 
 ### Miscellaneous Data Sources
 
-Several other organizations maintain databases of varying public availability. The Incorporated Research Institutions for Seismology([IRIS](http://ds.iris.edu/ds/nodes/dmc/data/)) provides several raw datasets in different formats (time series, event, etc.). The U.S. Energy Information Administration ([EIA](https://www.eia.gov/opendata/)) compiles significant amounts of data on economics and energy generation both nationally and internationally. [OpenEI](https://openei.org/datasets/dataset) collects data pertaining to different energy generation methods. They also maintain a Geothermal Data Repository ([GDR](https://gdr.openei.org/submissions/all)) with data collected all across the United States. Finally, [data.gov](https://catalog.data.gov/dataset) provides environmental datasets divided by the level of constituency (city, county, state, federal, etc.).
+Several other organizations maintain databases of varying public availability. The Incorporated Research Institutions for Seismology([IRIS](http://ds.iris.edu/ds/nodes/dmc/data/)) provides several raw datasets in different formats (time series, event, etc.). The U.S. Energy Information Administration ([EIA](https://www.eia.gov/opendata/)) compiles significant amounts of data on economics and energy generation both nationally and internationally. [OpenEI](https://openei.org/datasets/dataset) collects data pertaining to different energy generation methods. They also maintain a Geothermal Data Repository ([GDR](https://gdr.openei.org/submissions/all)) with data collected across the United States. Finally, [data.gov](https://catalog.data.gov/dataset) provides environmental datasets divided by the level of constituency (city, county, state, federal, etc.).
