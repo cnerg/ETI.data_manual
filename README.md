@@ -56,6 +56,12 @@ collects several data modalities for use in nuclear nonproliferation. These
 data streams are centralized for use by the MINOS team and collaborators. Please
 see the MINOS page in this manual for more information.
 
+### Waggle
+
+This is an Argonne National Laboratory project that uses a system of nodes dispersed
+throughout an urban area to collect various data streams and develop methods for edge
+computing and threat detection.
+
 ### Modeling Urban Scenarios and Experiments
 
 MUSE is an ORNL nuclear dataset designed to help in nuclear nonproliferation
