@@ -31,26 +31,34 @@ venture or project.
 ## Table of Contents
 
 1. [Data Streams](#data-tools)
-2. [Data Modes](#data-modes)
-3. [Data Tools](#data-tools)
+2. [Misc. Data Sources](#miscellaneous-data-sources)
+3. [Data Modes](#data-modes)
+4. [Data Tools](#data-tools)
 
 ## Data Modes
 
-|        |     audio      |     biota     |      EM       |    imaging    |  infrasound   |    radiation    | seismo-acoustic |     video      |
-|:------:|:--------------:|:-------------:|:-------------:|:-------------:|:-------------:|:---------------:|:---------------:|                |
-| MINOS  |                | [x](MINOS.md) | [x](MINOS.md) | [x](MINOS.md) | [x](MINOS.md) |  [x](MINOS.md)  |                 |                |
-| WAGGLE | [x](WAGGLE.md) |               |               | [x](WAGGLE.md)|               |                 | [x](WAGGLE.md)  |                |
+|                                                 |audo           |biota          |EM             |imaging        |infrasound     |radiation      |seismo-acoustic|video          |
+|:-----------------------------------------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|[MINOS](#minos)                                  |               |       x       |       x       |       x       |       x       |       x       |       x       |               |
+|[WAGGLE](#waggle)                                |       x       |               |       x       |       x       |               |               |       x       |       x       |
+|[MUSE](#modeling-urban-scenarios-and-experiments)|               |               |               |               |               |       x       |               |               |
+|[Topcoder](#topcoder-data-science-competition)   |               |               |               |               |               |       x       |               |               |
+|[VAST](#vast-challenge-2020)                     |               |               |               |               |               |               |               |               |
+|[FMotW](#functional-map-of-the-world)            |               |               |               |       x       |               |               |               |               |
+|[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |
+|[SpaceNet](#spacenet)                            |               |               |               |       x       |               |               |               |               |
+|[COWC](#cars-overhead-with-context)              |               |               |               |       x       |               |               |               |               |
 
 ### [MINOS](MINOS.md)
 
-Multi-Informatics for Nuclear Operations Scenarios is an NA-22 venture
+Multi-Informatics for Nuclear Operations Scenarios is an NA-22 venture that collects several data modalities for use in nuclear nonproliferation. These data streams are centralized for use by the MINOS team and collaborators. Please see the MINOS page in this manual for more information.
 
-### Urban Radiation Detection Competition Dataset
+### Modeling Urban Scenarios and Experiments
 
-This ORNL dataset is a nuclear dataset designed to help in nuclear nonproliferation research aimed at detecting and assessing threats in an urban environment.
+MUSE is an ORNL nuclear dataset designed to help in nuclear nonproliferation research aimed at detecting and assessing threats in an urban environment.
 DOI: [10.13139/ORNLNCCS/1597414](https://doi.ccs.ornl.gov/ui/doi/74)
 
-### Topcoder Radiation Detection Data Science Competition
+### Topcoder Data Science Competition
 
 This dataset was used for a [topcoder data science competition](https://www.topcoder.com/lp/detect-radiation) in association with several national laboratories. The aim in using this dataset was to develop algorithms that identify and characterize nuclear threats in urban areas. The datasets and an explanation of the competition can be found [here](https://www.topcoder.com/challenges/30085346).
 
@@ -74,7 +82,9 @@ This is a publicly available dataset of satellite imagery provided by the Defens
 
 [COWC](https://gdo152.llnl.gov/cowc/) is a training dataset with value to machine learning and deep neural networks for classification and detection of cars in overhead imagery. A paper describing the dataset can be found [here](https://gdo152.llnl.gov/cowc/mundhenk_et_al_eccv_2016.pdf).
 
-### Miscellaneous Data Sources
+***
+
+## Miscellaneous Data Sources
 
 Several other organizations maintain databases of varying public availability. The Incorporated Research Institutions for Seismology([IRIS](http://ds.iris.edu/ds/nodes/dmc/data/)) provides several raw datasets in different formats (time series, event, etc.). The U.S. Energy Information Administration ([EIA](https://www.eia.gov/opendata/)) compiles significant amounts of data on economics and energy generation both nationally and internationally. [OpenEI](https://openei.org/datasets/dataset) collects data pertaining to different energy generation methods. They also maintain a Geothermal Data Repository ([GDR](https://gdr.openei.org/submissions/all)) with data collected across the United States. Finally, [data.gov](https://catalog.data.gov/dataset) provides environmental datasets divided by the level of constituency (city, county, state, federal, etc.).
 

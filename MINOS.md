@@ -1,9 +1,10 @@
 # Multi-Informatics for Nuclear Operations Scenarios (MINOS)
-##### Point of Contact: [Dr. Jared Johnson](mailto:johnsonja@ornl.gov)
+
+## Point of Contact: [Dr. Jared Johnson](mailto:johnsonja@ornl.gov)
 
 ***
 
-# Introduction
+## Introduction
 
 This venture under NNSA Nonproliferation Research and Development (NA-22) is
 focused at Oak Ridge National Laboratory (ORNL). It is dedicated towards
@@ -53,15 +54,15 @@ to the ```Help``` tab on the main page).
 
 All datasets can be seen as a list by going to the ```Datasets``` tab on the
 webpage. This page allows keyword searches for specific datasets and has
-various tags to sort data based on its relevance. MINOS entries can be filtered 
-using the ```organization``` tag on the left-hand side of the browser. This 
-tag loosely groups datasets together based on the data's modality and the 
-institution where it was collected. Clicking on an entry will open a list of 
-files associated with that dataset. There should be a JSON that contains 
-summary information about what is contained on this page. Data is commonly 
-tarballed into a large database format and a more reasonably sized HDF5 format. 
-Clicking on any of the files brings the user to a download page for manually 
-downloading files. Some data (for example biota) may be in another format like 
+various tags to sort data based on its relevance. MINOS entries can be filtered
+using the ```organization``` tag on the left-hand side of the browser. This
+tag loosely groups datasets together based on the data's modality and the
+institution where it was collected. Clicking on an entry will open a list of
+files associated with that dataset. There should be a JSON that contains
+summary information about what is contained on this page. Data is commonly
+tarballed into a large database format and a more reasonably sized HDF5 format.
+Clicking on any of the files brings the user to a download page for manually
+downloading files. Some data (for example biota) may be in another format like
 XLSX rather than those explained above.
 
 ### Data Workspace
