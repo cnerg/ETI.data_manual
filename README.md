@@ -30,15 +30,15 @@ venture or project.
 
 ## Table of Contents
 
-1. [Data Streams](#data-tools)
+1. [Data Streams](#data-streams)
 2. [Misc. Data Sources](#miscellaneous-data-sources)
 3. [Data Modes](#data-modes)
 4. [Data Tools](#data-tools)
 
-## Data Modes
+## Data Streams
 
-|                                                 |audo           |biota          |EM             |imaging        |infrasound     |radiation      |seismo-acoustic|video          |
-|:-----------------------------------------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|     |[audo](#data-modes)|[biota](#data-modes)|[EM](#data-modes)|[imaging](#data-modes)|[infrasound](#data-modes)|[radiation](#data-modes)|[seismo-acoustic](#data-modes)|[video](#data-modes)|
+|:---:|:-----------------:|:------------------:|:---------------:|:--------------------:|:-----------------------:|:----------------------:|:----------------------------:|:------------------:|
 |[MINOS](#minos)                                  |               |       x       |       x       |       x       |       x       |       x       |       x       |               |
 |[WAGGLE](#waggle)                                |       x       |               |       x       |       x       |               |               |       x       |       x       |
 |[MUSE](#modeling-urban-scenarios-and-experiments)|               |               |               |               |               |       x       |               |               |
@@ -128,6 +128,29 @@ energy generation methods. They also maintain a Geothermal Data Repository
 ([GDR](https://gdr.openei.org/submissions/all)) with data collected across the United
 States. Finally, [data.gov](https://catalog.data.gov/dataset) provides environmental
 datasets divided by the level of constituency (city, county, state, federal, etc.).
+
+***
+
+## Data Modes
+
+This section briefly defines the data modalities described in the [data table](#data-modes):
+
+* **Audio** - Recorded audio data collected at a detector location. This could be collected as a physical data source or as recordings providing clarification and context to other data streams.
+
+* **Biota** - Ecological data describing experimental or detection locations and the wildlife in the surrounding area.
+
+* **EM** - Electromagnetic observations.
+
+* **Imaging** - Visual imaging data (i.e. static pictures). These can be satellite imagery or ground-level pictures from detectors and ground cameras.
+
+* **Infrasound** - Low-frequency sound recordings not normally audible to humans.
+
+* **Radiation** - Data collected from detectors that collect from different radiation sources.
+
+* **seismo-acoustic** - Low-frequency recordings traditionally from geophysical sources. One detector example would be a seismograph.
+
+* **Video** - Recorded video imaging from a detector.
+
 
 ***
 
