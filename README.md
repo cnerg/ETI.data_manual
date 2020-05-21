@@ -56,60 +56,59 @@ collects several data modalities for use in nuclear nonproliferation. These
 data streams are centralized for use by the MINOS team and collaborators. Please
 see the MINOS page in this manual for more information.
 
-### Waggle
+### [Waggle](WAGGLE.md)
 
 This is an Argonne National Laboratory project that uses a system of nodes dispersed
 throughout an urban area to collect various data streams and develop methods for edge
 computing and threat detection.
 
-### Modeling Urban Scenarios and Experiments
+### [Modeling Urban Scenarios and Experiments](https://doi.ccs.ornl.gov/ui/doi/74)
 
 MUSE is an ORNL nuclear dataset designed to help in nuclear nonproliferation
 research aimed at detecting and assessing threats in an urban environment.
 DOI: [10.13139/ORNLNCCS/1597414](https://doi.ccs.ornl.gov/ui/doi/74)
 
-### Topcoder Data Science Competition
+### [Topcoder Data Science Competition](https://www.topcoder.com/lp/detect-radiation)
 
-This dataset was used for a
-[topcoder data science competition](https://www.topcoder.com/lp/detect-radiation)
-in association with several national laboratories. The aim in using this dataset
-was to develop algorithms that identify and characterize nuclear threats in urban
-areas. The datasets and an explanation of the competition can be found
+This dataset was used for a topcoder data science competition in association
+with several national laboratories. The aim in using this dataset was to develop
+algorithms that identify and characterize nuclear threats in urban areas.
+The datasets and an explanation of the competition can be found
 [here](https://www.topcoder.com/challenges/30085346).
 
-### VAST Challenge 2020
+### [VAST Challenge 2020](https://vast-challenge.github.io/2020/)
 
-[The VAST Challenge](https://vast-challenge.github.io/2020/) is an annual
+The VAST Challenge is an annual
 competition utilizing data visualization and analytics. While the aim of the
 competition may be driven by data visualization, the datasets provided can be
 scientifically valuable as an alternative open data source.
 
-### Functional Map of the World
+### [Functional Map of the World](https://www.iarpa.gov/challenges/fmow.html)
 
 fMoW was an IARPA challenge to develop classification algorithms for imagery
 data. The data is still available in TIFF and JPEG formats
 [here](https://github.com/fMoW/dataset). The challenge
-[website](https://www.iarpa.gov/challenges/fmow.html) provides some context on
+website provides some context on
 goals and additional resources for using imagery data. A paper describing the dataset
 in detail can be found on [arXiv](https://arxiv.org/abs/1711.07846).
 
-### xView Detection Challenge
+### [xView Detection Challenge](http://xviewdataset.org/)
 
 This is a publicly available dataset of satellite imagery provided by the Defense
 Innovation Unit Experimental (DIUx) and the National Geospatial-Intelligence Agency
-(NGA). [XView](http://xviewdataset.org/) builds on the work of other imagery challenges
+(NGA). XView builds on the work of other imagery challenges
 in developing classification and detection algorithms. A pre-trained model is already
 provided using TensorFlow and PyTorch.
 
-### SpaceNet
+### [SpaceNet](https://spacenetchallenge.github.io/)
 
-[SpaceNet](https://spacenetchallenge.github.io/) is a commercial satellite imagery
+SpaceNet is a commercial satellite imagery
 dataset with existing labels for developing machine learning classification algorithms.
 The dataset is publicly available on [AWS](https://registry.opendata.aws/spacenet/).
 
-### Cars Overhead with Context
+### [Cars Overhead with Context](https://gdo152.llnl.gov/cowc/)
 
-[COWC](https://gdo152.llnl.gov/cowc/) is a training dataset with value to machine learning
+COWC is a training dataset with value to machine learning
 and deep neural networks for classification and detection of cars in overhead imagery. A paper
 describing the dataset can be found
 [here](https://gdo152.llnl.gov/cowc/mundhenk_et_al_eccv_2016.pdf).
