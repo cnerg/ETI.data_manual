@@ -145,7 +145,7 @@ This section briefly defines the data modalities described in the [data table](#
 
 * **Infrasound** - Low-frequency sound recordings not normally audible to humans.
 
-* **Radiation** - Data collected from detectors that collect from different radiation sources.
+* **Radiation** - Data collected from detectors that collect from different types of radiation.
 
 * **seismo-acoustic** - Low-frequency recordings traditionally from geophysical sources. One detector example would be a seismograph.
 
