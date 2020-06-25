@@ -147,7 +147,7 @@ This section briefly defines the data modalities described in the [data table](#
 
 * **Radiation** - Data collected from detectors that measure different types of radiation.
 
-* **seismo-acoustic** - Low-frequency recordings traditionally from geophysical sources. One detector example would be a seismograph.
+* **Seismo-acoustic** - Low-frequency recordings traditionally from geophysical sources. One detector example would be a seismograph.
 
 * **Video** - Recorded video imaging from a detector.
 
