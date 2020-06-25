@@ -7,11 +7,16 @@ In order to be exhaustive, data modalities need to be added as they are
 identified. There are many ventures, projects, and data streams that are
 valuable to ETI and deserve to be included. Readers are
 encouraged to add missing information if they believe something should be added.
-Since this manual exists on GitHub, there are several methods for contribution.
-This repository can be forked, edited, and contributors can send pull requests
-for review. Alternatively, issues can be raised for identifying errors. For
-more information on collaborating with GitHub, please refer to the [GitHub
-help page](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests).
+
+Please note that development of this manual occurs on a private copy of the
+repository. In order to contribute to manual changes, access must be requested
+and granted to the private repository. This is because review of changes are
+required before being publicly disseminated. Since this manual exists on GitHub,
+there are several methods for contribution. This repository can be forked,
+edited, and contributors can send pull requests for review. Alternatively,
+issues can be raised for identifying errors. For more information on collaborating
+with GitHub, please refer to the
+[GitHub help page](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests).
 
 ## How to contribute
 
