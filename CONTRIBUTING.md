@@ -29,9 +29,10 @@ should be up-to-date with the currently published version of the manual.
 
 4. Make your contributions to the branch:
 
-- Make sure to add a row to the data table, it should look like this:
+    - Make sure to add a row to the data table, where each modality is marked with an `x`.
+    For example:
+
 | Data Source Name  | | | x | x | |
-Where each modality is marked with an `x`.
 
 - If the data source introduces a new modality, add that column to the data table.
 Then, add a section in `Data Modes` briefly describing the type of data.
