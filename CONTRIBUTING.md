@@ -24,7 +24,6 @@ The following instructions provide details on how to add content to the manual:
 
 1. Request access to edit the private repository. Development occurs here to allow for
 programmatic review of information before public dissemination. Access is granted
-
 by first filling out the form [here](https://forms.gle/j6RzKrsrQSTQWFFw6).
 
 2. [Make a fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
