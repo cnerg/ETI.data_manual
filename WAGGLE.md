@@ -1,9 +1,10 @@
 # WAGGLE: Edge Computing and Intelligent Sensors
-##### Point of Contact: [Dr. Rajesh Sankaran](mailto:rajesh@mcs.anl.gov) & [Dr. Candido Pereira](mailto:pereira@anl.gov)
+
+## Point of Contact: [Dr. Rajesh Sankaran](mailto:rajesh@mcs.anl.gov) & [Dr. Candido Pereira](mailto:pereira@anl.gov)
 
 ***
 
-# Overview
+## Overview
 
 A description for Waggle can be found on the [project website](https://wa8.gl/):
 
@@ -15,5 +16,5 @@ A description for Waggle can be found on the [project website](https://wa8.gl/):
 
 This project is open source. Data can also be found
 [online](https://wa8.gl/data/) and project software is published on the
-[organization’s GitHub page](https://github.com/waggle-sensor). For more 
+[organization’s GitHub page](https://github.com/waggle-sensor). For more
 information on the project, reach out to the project points of contact.
