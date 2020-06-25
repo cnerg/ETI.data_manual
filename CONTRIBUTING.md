@@ -30,19 +30,16 @@ should be up-to-date with the currently published version of the manual.
 4. Make your contributions to the branch:
 
     - Make sure to add a row to the data table, where each modality is marked with an `x`.
-    For example:
 
-| Data Source Name  | | | x | x | |
+    - If the data source introduces a new modality, add that column to the data table.
+    Then, add a section in `Data Modes` briefly describing the type of data.
 
-- If the data source introduces a new modality, add that column to the data table.
-Then, add a section in `Data Modes` briefly describing the type of data.
+    - Add a section to `Data Streams` describing the data source. This should
+    include links to documentation for the source, how the source was collected,
+    and any expectations for data use.
 
-- Add a section to `Data Streams` describing the data source. This should
-include links to documentation for the source, how the source was collected,
-and any expectations for data use.
-
-- If the addition is a multi-modal data set. Make a separate markdown page
-detailing the project or venture as a whole. See `MINOS.md` for an example.
+    - If the addition is a multi-modal data set. Make a separate markdown page
+    detailing the project or venture as a whole. See `MINOS.md` for an example.
 
 5. [Commit and push](https://help.github.com/en/github/using-git/pushing-commits-to-a-remote-repository) your changes.
 
