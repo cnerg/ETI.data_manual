@@ -28,7 +28,7 @@ on the manual's GitHub page. To explore something in the table, each
 cell forwards to information on the venture or project.
 
 Contribution to this document is encouraged as data streams are identified.
-The process of adding content is detailed in the (contributing page)[CONTRIBUTING.md]
+The process of adding content is detailed in the [contributing page](CONTRIBUTING.md)
 
 ## Table of Contents
 
