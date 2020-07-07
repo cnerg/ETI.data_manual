@@ -38,14 +38,13 @@ The process of adding content is detailed in the (contributing page)[CONTRIBUTIN
 4. [Data Tools](#data-tools)
 
 ## Data Streams
-
 |     |[audio](#data-modes)|[biota](#data-modes)|[EM](#data-modes)|[imaging](#data-modes)|[infrasound](#data-modes)|[radiation](#data-modes)|[seismo-acoustic](#data-modes)|[video](#data-modes)|[hyperspectral](#data-modes)|
-|:---:|:-----------------:|:------------------:|:---------------:|:--------------------:|:-----------------------:|:----------------------:|:----------------------------:|:------------------:|
+|:---:|:-----------------:|:------------------:|:---------------:|:--------------------:|:-----------------------:|:----------------------:|:----------------------------:|:------------------:|:---------------:|
 |[MINOS](#minos)                                  |               |       x       |       x       |       x       |       x       |       x       |       x       |               |               |
 |[WAGGLE](#waggle)                                |       x       |               |       x       |       x       |               |               |       x       |       x       |               |
 |[MUSE](#modeling-urban-scenarios-and-experiments)|               |               |               |               |               |       x       |               |               |               |
 |[Topcoder](#topcoder-data-science-competition)   |               |               |               |               |               |       x       |               |               |               |
-|[GRDC/BDC](#GRDC)                                    |               |               |               |       x       |               |       x       |               |       x       |       x       |
+|[GRDC/BDC](#gamma-ray-data-cloud)                |               |               |               |       x       |               |       x       |               |       x       |       x       |
 |[VAST](#vast-challenge-2020)                     |               |               |               |               |               |               |               |               |               |
 |[FMotW](#functional-map-of-the-world)            |               |               |               |       x       |               |               |               |               |               |
 |[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |               |
@@ -87,6 +86,7 @@ Some Helicopter-borne NaI data is also available. [RadMAP DOI:10.1016/j.nima.201
 BDC was developed to improve upon the GRDC data management model, with a goal of facilitating users to be able to add their own data.  
 BDC is will host similar datasets to RadMAP (and possibly the RadMAP dataset one day), but for now, it continues to be subject to active developement and the first hosted dataset is the Northern Virginia Array (NoVArray), which is a set of 18 months of (up to 18) NaI detectors positioned alongside roadways in the Northern Virginia suburbs of the Washington, DC area. 
 [NoVARRAY ArXiv](https://arxiv.org/pdf/2003.10524.pdf)
+
 Both datasets are available to researchers who register on the respective websites.
 
 ### [VAST Challenge 2020](https://vast-challenge.github.io/2020/)
