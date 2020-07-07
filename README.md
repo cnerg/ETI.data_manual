@@ -44,7 +44,7 @@ The process of adding content is detailed in the (contributing page)[CONTRIBUTIN
 |[WAGGLE](#waggle)                                |       x       |               |       x       |       x       |               |               |       x       |       x       |               |
 |[MUSE](#modeling-urban-scenarios-and-experiments)|               |               |               |               |               |       x       |               |               |               |
 |[Topcoder](#topcoder-data-science-competition)   |               |               |               |               |               |       x       |               |               |               |
-|[GRDC/BDC](#gamma-ray-data-cloud)                |               |               |               |       x       |               |       x       |               |       x       |       x       |
+|[GRDC/BDC](#gamma-ray-data-cloud-berkeley-nuclear-data-cloud)                |               |               |               |       x       |               |       x       |               |       x       |       x       |
 |[VAST](#vast-challenge-2020)                     |               |               |               |               |               |               |               |               |               |
 |[FMotW](#functional-map-of-the-world)            |               |               |               |       x       |               |               |               |               |               |
 |[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |               |
