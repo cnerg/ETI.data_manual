@@ -79,11 +79,11 @@ algorithms that identify and characterize nuclear threats in urban areas.
 The datasets and an explanation of the competition can be found
 [here](https://www.topcoder.com/challenges/30085346).
 
-### [Gamma-ray Data Cloud/Berkeley nuclear Data Cloud](https://grdc.nersc.gov, https://bdc.lbl.gov)
+### [Gamma-ray Data Cloud](https://grdc.nersc.gov) /[Berkeley nuclear Data Cloud](https://bdc.lbl.gov)
 
 GRDC and BDC are LBNL-hosted websites developed to enable access to radiological data and associated contextual data.  
 GRDC primarily hosts the RadMAP dataset.  RadMAP was a truck-borne detector system carrying NaI, HPGe and Liquid Scintillator radiation detectors, LiDAR, 4pi cameras, hyperspectral camera, a weather station, and a GPS/IMU.
-Some Helicopter-borne NaI data is also available. [RadMAP DOI:10.1016/j.nima.2016.09.040] (https://doi.org/10.1016/j.nima.2016.09.040)
+Some Helicopter-borne NaI data is also available. [RadMAP DOI:10.1016/j.nima.2016.09.040](https://doi.org/10.1016/j.nima.2016.09.040)
 BDC was developed to improve upon the GRDC data management model, with a goal of facilitating users to be able to add their own data.  
 BDC is will host similar datasets to RadMAP (and possibly the RadMAP dataset one day), but for now, it continues to be subject to active developement and the first hosted dataset is the Northern Virginia Array (NoVArray), which is a set of 18 months of (up to 18) NaI detectors positioned alongside roadways in the Northern Virginia suburbs of the Washington, DC area. 
 [NoVARRAY ArXiv](https://arxiv.org/pdf/2003.10524.pdf)
