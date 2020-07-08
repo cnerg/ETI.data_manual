@@ -38,18 +38,18 @@ The process of adding content is detailed in the [contributing page](CONTRIBUTIN
 4. [Data Tools](#data-tools)
 
 ## Data Streams
-
-|     |[audo](#data-modes)|[biota](#data-modes)|[EM](#data-modes)|[imaging](#data-modes)|[infrasound](#data-modes)|[radiation](#data-modes)|[seismo-acoustic](#data-modes)|[video](#data-modes)|
-|:---:|:-----------------:|:------------------:|:---------------:|:--------------------:|:-----------------------:|:----------------------:|:----------------------------:|:------------------:|
-|[MINOS](#minos)                                  |               |       x       |       x       |       x       |       x       |       x       |       x       |               |
-|[WAGGLE](#waggle)                                |       x       |               |       x       |       x       |               |               |       x       |       x       |
-|[MUSE](#modeling-urban-scenarios-and-experiments)|               |               |               |               |               |       x       |               |               |
-|[Topcoder](#topcoder-data-science-competition)   |               |               |               |               |               |       x       |               |               |
-|[VAST](#vast-challenge-2020)                     |               |               |               |               |               |               |               |               |
-|[FMotW](#functional-map-of-the-world)            |               |               |               |       x       |               |               |               |               |
-|[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |
-|[SpaceNet](#spacenet)                            |               |               |               |       x       |               |               |               |               |
-|[COWC](#cars-overhead-with-context)              |               |               |               |       x       |               |               |               |               |
+|     |[audio](#data-modes)|[biota](#data-modes)|[EM](#data-modes)|[imaging](#data-modes)|[infrasound](#data-modes)|[radiation](#data-modes)|[seismo-acoustic](#data-modes)|[video](#data-modes)|[hyperspectral](#data-modes)|
+|:---:|:-----------------:|:------------------:|:---------------:|:--------------------:|:-----------------------:|:----------------------:|:----------------------------:|:------------------:|:---------------:|
+|[MINOS](#minos)                                  |               |       x       |       x       |       x       |       x       |       x       |       x       |               |               |
+|[WAGGLE](#waggle)                                |       x       |               |       x       |       x       |               |               |       x       |       x       |               |
+|[MUSE](#modeling-urban-scenarios-and-experiments)|               |               |               |               |               |       x       |               |               |               |
+|[Topcoder](#topcoder-data-science-competition)   |               |               |               |               |               |       x       |               |               |               |
+|[GRDC/BDC](#gamma-ray-data-cloud-berkeley-nuclear-data-cloud)                |               |               |               |       x       |               |       x       |               |       x       |       x       |
+|[VAST](#vast-challenge-2020)                     |               |               |               |               |               |               |               |               |               |
+|[FMotW](#functional-map-of-the-world)            |               |               |               |       x       |               |               |               |               |               |
+|[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |               |
+|[SpaceNet](#spacenet)                            |               |               |               |       x       |               |               |               |               |               |
+|[COWC](#cars-overhead-with-context)              |               |               |               |       x       |               |               |               |               |               |
 
 ### [MINOS](MINOS.md)
 
@@ -77,6 +77,17 @@ with several national laboratories. The aim in using this dataset was to develop
 algorithms that identify and characterize nuclear threats in urban areas.
 The datasets and an explanation of the competition can be found
 [here](https://www.topcoder.com/challenges/30085346).
+
+### [Gamma-ray Data Cloud](https://grdc.nersc.gov) /[Berkeley nuclear Data Cloud](https://bdc.lbl.gov)
+
+GRDC and BDC are LBNL-hosted websites developed to enable access to radiological data and associated contextual data.  
+GRDC primarily hosts the RadMAP dataset.  RadMAP was a truck-borne detector system carrying NaI, HPGe and Liquid Scintillator radiation detectors, LiDAR, 4pi cameras, hyperspectral camera, a weather station, and a GPS/IMU. [RadMAP Publication here](https://doi.org/10.1016/j.nima.2016.09.040) Some Helicopter-borne NaI data is also available.  [Request GRDC access here](https://docs.google.com/forms/d/1tAyc7ivwPjCkteU5qgu9vyxDcVuXwuYYXiKEWgBzFCU/edit?usp=sharing).
+
+BDC was developed to improve upon the GRDC data management model, with a goal of facilitating users to be able to add their own data.  
+BDC is will host similar datasets to RadMAP (and possibly the RadMAP dataset one day), but for now, it continues to be subject to active developement and the first hosted dataset is the Northern Virginia Array (NoVArray), which is a set of 18 months of (up to 18) NaI detectors positioned alongside roadways in the Northern Virginia suburbs of the Washington, DC area.  Users can register for [bdc.lbl.gov] at the website, but manual approval by an administrator is required. 
+[NoVArray ArXiv](https://arxiv.org/pdf/2003.10524.pdf)
+
+Both datasets are available to researchers who register on the respective websites.
 
 ### [VAST Challenge 2020](https://vast-challenge.github.io/2020/)
 
@@ -152,6 +163,8 @@ This section briefly defines the data modalities described in the [data table](#
 * **Seismo-acoustic** - Low-frequency recordings traditionally from geophysical sources. One detector example would be a seismograph.
 
 * **Video** - Recorded video imaging from a detector.
+
+* **Hyperspectral** - Visual and near infrared light imagery, measured in many channels, as opposed to the three-channel RGB visual.
 
 
 ***
