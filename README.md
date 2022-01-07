@@ -185,3 +185,11 @@ classification of multimodal data to inform nuclear security and proliferation d
 scenarios." It has a modular framework with the ability to pre-process data as well as train
 and test models. MIMOSAS is compatible with [MINOS](MINOS.md) data and can be installed from
 source. Additional information can be found [here](https://complexity.berkeley.edu/mimosas/).
+
+3/ "[RADAI](https://gitlab.com/lbl-anp/radai/radai) (Radiological Anomaly Detection And
+Identification) is a suite of python tools for handling and manipulating gamma-ray data,
+implementing spectral analysis algorithms, and (eventually) manipulating a RADAI benchmark
+dataset that will be building upon the Urban Radiological Search Competition (aka TopCoder
+above). The package includes implementations of several benchmark algorithms for anomaly 
+detection and coupled detection/identification.
+
