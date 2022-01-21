@@ -186,6 +186,13 @@ scenarios." It has a modular framework with the ability to pre-process data as w
 and test models. MIMOSAS is compatible with [MINOS](MINOS.md) data and can be installed from
 source. Additional information can be found [here](https://complexity.berkeley.edu/mimosas/).
 
+1. "[RADAI](https://gitlab.com/lbl-anp/radai/radai) (Radiological Anomaly Detection And
+Identification) is a suite of python tools for handling and manipulating gamma-ray data,
+implementing spectral analysis algorithms, and (eventually) manipulating a RADAI benchmark
+dataset that will be building upon the Urban Radiological Search Competition (aka TopCoder
+above). The package includes implementations of several benchmark algorithms for anomaly 
+detection and coupled detection/identification.
+
 1. "[Becquerel](https://github.com/lbl-anp/becquerel) is a Python package for analyzing nuclear 
 spectroscopic measurements." The core functionalities are reading and writing different spectrum 
 file types, fitting spectral features, performing detector calibrations, and interpreting 
