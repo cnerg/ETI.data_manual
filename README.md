@@ -179,7 +179,7 @@ for semi-supervised machine learning." It contains several training algorithms a
 be installed via `pip`. Online documentation includes several examples of using the
 package and API information.
 
-2. "[MIMOSAS](https://github.com/nonproliferation/mimosas) (Multimodal Input Model Output
+1. "[MIMOSAS](https://github.com/nonproliferation/mimosas) (Multimodal Input Model Output
 Security Analysis Suite) is a supervised machine learning pipeline developed for
 classification of multimodal data to inform nuclear security and proliferation detection
 scenarios." It has a modular framework with the ability to pre-process data as well as train
@@ -193,3 +193,10 @@ dataset that will be building upon the Urban Radiological Search Competition (ak
 above). The package includes implementations of several benchmark algorithms for anomaly 
 detection and coupled detection/identification.
 
+1. "[Becquerel](https://github.com/lbl-anp/becquerel) is a Python package for analyzing nuclear 
+spectroscopic measurements." The core functionalities are reading and writing different spectrum 
+file types, fitting spectral features, performing detector calibrations, and interpreting 
+measurement results. It includes tools for plotting radiation spectra as well as convenient 
+access to tabulated nuclear data, and it will include fits of different spectral features. 
+It is intended to be general-purpose enough that it can be useful to anyone from an undergraduate 
+taking a laboratory course to the advanced researcher.
