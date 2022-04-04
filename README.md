@@ -50,7 +50,7 @@ The process of adding content is detailed in the [contributing page](CONTRIBUTIN
 |[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |               |
 |[SpaceNet](#spacenet)                            |               |               |               |       x       |               |               |               |               |               |
 |[COWC](#cars-overhead-with-context)              |               |               |               |       x       |               |               |               |               |               |
-|[Limbo](#limbo)                                  |               |       x       |               |       x       |               |               |               |               |               |
+|[Limbo](#limbo)                                  |               |       x       |               |               |               |               |               |               |               |
 
 ### [MINOS](MINOS.md)
 
