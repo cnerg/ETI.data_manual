@@ -50,6 +50,7 @@ The process of adding content is detailed in the [contributing page](CONTRIBUTIN
 |[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |               |
 |[SpaceNet](#spacenet)                            |               |               |               |       x       |               |               |               |               |               |
 |[COWC](#cars-overhead-with-context)              |               |               |               |       x       |               |               |               |               |               |
+|[Limbo](#limbo)                                  |               |       x       |               |       x       |               |               |               |               |               |
 
 ### [MINOS](MINOS.md)
 
@@ -125,6 +126,15 @@ COWC is a training dataset with value to machine learning
 and deep neural networks for classification and detection of cars in overhead imagery. A paper
 describing the dataset can be found
 [here](https://gdo152.llnl.gov/cowc/mundhenk_et_al_eccv_2016.pdf).
+
+### [Limbo](https://limbo-ml.readthedocs.io/en/latest/index.html)
+
+This library consists of three features:
+- A [dataset]( https://limbo-ml.readthedocs.io/en/latest/data.html#data) of several thousand images that can be used for computer vision machine learning research. Data is hosted on the LBNL data cloud.
+- A Limbo specific [data format]( https://limbo-ml.readthedocs.io/en/latest/specification.html#specification) that can be used for managing Limbo data or utilized for synthetic image data.
+- A Python-based [software package]( https://limbo-ml.readthedocs.io/en/latest/software.html#software) for accessing Limbo data (using the [Limbo Data Format]( https://limbo-ml.readthedocs.io/en/latest/specification.html#specification)) and/or conducting computer vision applications.
+More information can be found at the [Limbo repository]( https://github.com/limbo-ml/user) and the team can be contacted on the [Limbo discussion page]( https://github.com/limbo-ml/user/discussions).
+
 
 ***
 
