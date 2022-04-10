@@ -38,19 +38,20 @@ The process of adding content is detailed in the [contributing page](CONTRIBUTIN
 4. [Data Tools](#data-tools)
 
 ## Data Streams
-|     |[audio](#data-modes)|[biota](#data-modes)|[EM](#data-modes)|[imaging](#data-modes)|[infrasound](#data-modes)|[radiation](#data-modes)|[seismo-acoustic](#data-modes)|[video](#data-modes)|[hyperspectral](#data-modes)|
-|:---:|:-----------------:|:------------------:|:---------------:|:--------------------:|:-----------------------:|:----------------------:|:----------------------------:|:------------------:|:---------------:|
-|[MINOS](#minos)                                  |               |       x       |       x       |       x       |       x       |       x       |       x       |               |               |
-|[WAGGLE](#waggle)                                |       x       |               |       x       |       x       |               |               |       x       |       x       |               |
-|[MUSE](#modeling-urban-scenarios-and-experiments)|               |               |               |               |               |       x       |               |               |               |
-|[Topcoder](#topcoder-data-science-competition)   |               |               |               |               |               |       x       |               |               |               |
-|[GRDC/BDC](#gamma-ray-data-cloud-berkeley-nuclear-data-cloud)                |               |               |               |       x       |               |       x       |               |       x       |       x       |
-|[VAST](#vast-challenge-2020)                     |               |               |               |               |               |               |               |               |               |
-|[FMotW](#functional-map-of-the-world)            |               |               |               |       x       |               |               |               |               |               |
-|[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |               |
-|[SpaceNet](#spacenet)                            |               |               |               |       x       |               |               |               |               |               |
-|[COWC](#cars-overhead-with-context)              |               |               |               |       x       |               |               |               |               |               |
-|[Limbo](#limbo)                                  |               |               |               |       x       |               |               |               |               |       x       |
+|     |[audio](#data-modes)|[biota](#data-modes)|[EM](#data-modes)|[imaging](#data-modes)|[infrasound](#data-modes)|[radiation](#data-modes)|[seismo-acoustic](#data-modes)|[video](#data-modes)|[hyperspectral](#data-modes)|[miscellaneous](#data-modes)
+|:---:|:-----------------:|:------------------:|:---------------:|:--------------------:|:-----------------------:|:----------------------:|:----------------------------:|:------------------:|:---------------:|:---------------:|
+|[MINOS](#minos)                                  |               |       x       |       x       |       x       |       x       |       x       |       x       |               |               |               |
+|[WAGGLE](#waggle)                                |       x       |               |       x       |       x       |               |               |       x       |       x       |               |               |
+|[MUSE](#modeling-urban-scenarios-and-experiments)|               |               |               |               |               |       x       |               |               |               |               |
+|[Topcoder](#topcoder-data-science-competition)   |               |               |               |               |               |       x       |               |               |               |               |
+|[GRDC/BDC](#gamma-ray-data-cloud-berkeley-nuclear-data-cloud)                |               |               |               |       x       |               |       x       |               |       x       |       x       |               |
+|[VAST](#vast-challenge-2020)                     |               |               |               |               |               |               |               |               |               |               |
+|[FMotW](#functional-map-of-the-world)            |               |               |               |       x       |               |               |               |               |               |               |
+|[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |               |               |
+|[SpaceNet](#spacenet)                            |               |               |               |       x       |               |               |               |               |               |               |
+|[COWC](#cars-overhead-with-context)              |               |               |               |       x       |               |               |               |               |               |               |
+|[Limbo](#limbo)                                  |               |               |               |       x       |               |               |               |               |       x       |               |
+|[LLNL ODI](#llnl-open-data-initiative)           |               |               |               |       x       |               |               |               |       x       |       x       |       x       |
 
 ### [MINOS](MINOS.md)
 
@@ -135,6 +136,19 @@ This library consists of three features:
 - A Python-based [software package]( https://limbo-ml.readthedocs.io/en/latest/software.html#software) for accessing Limbo data (using the [Limbo Data Format]( https://limbo-ml.readthedocs.io/en/latest/specification.html#specification)) and/or conducting computer vision applications.
 More information can be found at the [Limbo repository]( https://github.com/limbo-ml/user) and the team can be contacted on the [Limbo discussion page]( https://github.com/limbo-ml/user/discussions).
 
+### [LLNL Open Data Initiative](https://data-science.llnl.gov/open-data-initiative)
+
+Lawrence Livermore National Laboratory maintains this selection of open-source datasets from several different application spaces. More information on the following datasets can be found in the website above:
+- Zwicky Transient Facility (ZTF) Image Classification Using MuyGPyS
+- Dynamic 4DCT Datasets using MPM-Based Deformation
+- Video Dataset for Two-Photon Lithography Additive Manufacturing
+- Data Portal for COVID-19 Therapeutic Design
+- Interactive Visualization of Drugs and Therapeutic Agents in COVID-19 Open Research Dataset
+- 3D Protein-Ligand Dataset for Anti-Viral Screening against SARS-CoV-2
+- High-Performance Computing Application I/O Traces
+- Hurricane Dataset for Deep-Hurricane-Tracker Model
+- [Cars Overhead With Context (COWC)](#cars-overhead-with-context)
+- JAG ICF Dataset for Scientific Machine Learning
 
 ***
 
@@ -175,6 +189,8 @@ This section briefly defines the data modalities described in the [data table](#
 * **Video** - Recorded video imaging from a detector.
 
 * **Hyperspectral** - Visual and near infrared light imagery, measured in many channels, as opposed to the three-channel RGB visual. This also includes depth/LIDAR data streams.
+
+* **Miscellaneous** - This encompasses a variety of data sources that do not fit in the definitions above or are included in the [miscellaneous](#miscellaneous-data-sources) data sources section above. This includes data streams that are socioeconomic, biological, weather, geological, etc.
 
 
 ***
