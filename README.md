@@ -50,7 +50,7 @@ The process of adding content is detailed in the [contributing page](CONTRIBUTIN
 |[xView](#xview-detection-challenge)              |               |               |               |       x       |               |               |               |               |               |
 |[SpaceNet](#spacenet)                            |               |               |               |       x       |               |               |               |               |               |
 |[COWC](#cars-overhead-with-context)              |               |               |               |       x       |               |               |               |               |               |
-|[Limbo](#limbo)                                  |               |       x       |               |               |               |               |               |               |               |
+|[Limbo](#limbo)                                  |               |               |               |       x       |               |               |               |               |       x       |
 
 ### [MINOS](MINOS.md)
 
@@ -174,7 +174,7 @@ This section briefly defines the data modalities described in the [data table](#
 
 * **Video** - Recorded video imaging from a detector.
 
-* **Hyperspectral** - Visual and near infrared light imagery, measured in many channels, as opposed to the three-channel RGB visual.
+* **Hyperspectral** - Visual and near infrared light imagery, measured in many channels, as opposed to the three-channel RGB visual. This also includes depth/LIDAR data streams.
 
 
 ***
